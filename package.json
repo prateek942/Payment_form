@@ -43,15 +43,5 @@
     "tailwindcss": "^3.4.3"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "postcss.config.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prateek942/Payment-form.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/prateek942/Payment-form/issues"
-  },
-  "homepage": "https://github.com/prateek942/Payment-form#readme"
+  "main": "postcss.config.js"
 }

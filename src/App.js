@@ -6,7 +6,7 @@ import MultiStepForm from './MultiStepForm';
 function App() {
   return (
     <div className="App">
-      <MultiStepForm />
+      { <MultiStepForm /> }
     </div>
   );
 }
